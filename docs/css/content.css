@@ -38,6 +38,12 @@ body{
     margin-right: auto;
 }
 
+.carousel-caption{
+    margin-bottom:2px;
+    color:black;
+    text-shadow:1px 1px grey;
+}
+
 .page-footer{
     background-color: black;
 }
